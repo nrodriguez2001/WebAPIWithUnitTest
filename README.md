@@ -13,8 +13,8 @@ Create DB
 The steps to create the db are:
 
 1)Login TO SQLEXPRESS
-1)Create the Vevo database
-2)Run the VevoDB_FullScript.sql in this repo.
+2)Create the Vevo database
+3)Run the VevoDB_FullScript.sql in this repo.
 
 Change DB Connection
 --------------------
