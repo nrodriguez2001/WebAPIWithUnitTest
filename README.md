@@ -164,8 +164,8 @@ http://localhost:1111/api/Videos/21
 THIRD PARTY PACKAGES INCLUDED
 -----------------------------
 
-Ninject (and dependencies)
-WebApiContrib.IoC.Ninject
+Ninject (and dependencies),
+WebApiContrib.IoC.Ninject,
 Moq
 
 
