@@ -4,13 +4,6 @@ Includes a Web API MVC project with Validation, Controllers, ADO interface, Unit
 
 API Coding Exercise
 -------------------
-This ZIP file has two items
-
-1)VevoTest Folder
-It holds the WEB API Application
-
-2)VevoDB_FullScript.sql
-This script will create the data base objects (Schema and data).
 
 INSTALLATION
 ------------
@@ -21,7 +14,7 @@ The steps to create the db are:
 
 1)Login TO SQLEXPRESS
 1)Create the Vevo database
-2)Run the VevoDB_FullScript.sql in this DB.
+2)Run the VevoDB_FullScript.sql in this repo.
 
 Change DB Connection
 --------------------
